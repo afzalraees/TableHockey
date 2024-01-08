@@ -1,0 +1,5 @@
+Keystore Password - spinnnball
+Keystore Alias - alias
+Keystore Alias Password - spinnnball
+Package Name - com.spinnnball.mgart
+Version - 1.0
